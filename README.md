@@ -41,7 +41,7 @@
 ### 3. แอปพลิเคชันแชทอัจฉริยะ (AI Chat App with Gemini API)
 แอปพลิเคชันพูดคุยโต้ตอบแบบ Real-time โดยเชื่อมต่อกับ **Google Gemini API** (`gemini-1.5-flash`) ผ่าน `google_generative_ai` package:
 
-![AI Chat App Screenshot](./images/screenshot_ai_chat.png)
+![AI Chat App Screenshot](./week01-flutter-intro-67030011/screenshots/ai_chat.png)
 
 ---
 
