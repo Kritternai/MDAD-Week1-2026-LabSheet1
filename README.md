@@ -13,9 +13,8 @@
 | 📁 เอกสาร / โปรเจกต์ | 🔗 ลิงก์เข้าถึง |
 | :--- | :--- |
 | 📘 **ใบงานหลัก (Lab Sheet v2)** | [📄 MDAD-week01_lab_v2.md](./MDAD-week01_lab_v2.md) |
-| 📝 **รายงานผลการทดลอง (Lab Report)** | [📄 LAB_REPORT.md](./week01-flutter-intro-67030011/LAB_REPORT.md) |
-| 🚀 **ซอร์สโค้ดโปรเจกต์ Flutter** | [📂 week01-flutter-intro-67030011](./week01-flutter-intro-67030011) |
-| 🌐 **GitHub Repository (โปรเจกต์)** | [🔗 Kritternai/week01-flutter-intro-67030011](https://github.com/Kritternai/week01-flutter-intro-67030011) |
+| 📝 **รายงานผลการทดลอง (Lab Report)** | [📄 LAB_REPORT.md](https://github.com/Kritternai/week01-flutter-intro-67030011/blob/main/LAB_REPORT.md) |
+| 🚀 **โปรเจกต์ Flutter & ซอร์สโค้ด (GitHub Repo)** | [🔗 Kritternai/week01-flutter-intro-67030011](https://github.com/Kritternai/week01-flutter-intro-67030011) |
 ---
 
 ## 📸 ผลการทดลองและตัวอย่างหน้าจอแอปพลิเคชัน (Experiment Results & Screenshots)
@@ -39,7 +38,7 @@
 ### 3. แอปพลิเคชันแชทอัจฉริยะ (AI Chat App with Gemini API)
 แอปพลิเคชันพูดคุยโต้ตอบแบบ Real-time โดยเชื่อมต่อกับ **Google Gemini API** (`gemini-1.5-flash`) ผ่าน `google_generative_ai` package:
 
-![AI Chat App Screenshot](./week01-flutter-intro-67030011/screenshots/ai_chat.png)
+![AI Chat App Screenshot](https://raw.githubusercontent.com/Kritternai/week01-flutter-intro-67030011/main/screenshots/ai_chat.png)
 
 ---
 
